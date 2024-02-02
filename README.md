@@ -10,13 +10,14 @@ For start:
   
   ![Screenshot from 2024-02-02 21-18-44](https://github.com/n1ckoli/ML-NLP/assets/124861436/d1f4c03d-be9a-4130-b21f-4cf4bfd7f84e)
   
-3) And then run <pip install -r requirements.txt> in your terminal or cmd
+3)And then run <pip install -r requirements.txt> in your terminal or cmd
 
-Results:
+RESULTS:
 
 DecisionTree
 
-![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/2a04b63b-7dd7-4052-95bc-01f6977ce4c2)
+![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/3195a7ed-4c2c-439f-b364-11912c2f6265)
+
 
 PCA
 
@@ -24,4 +25,5 @@ PCA
 
 Bag of words
 
-![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/66c8b77f-6d95-41ad-9a32-1033750227be)
+![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/9e04aff9-f0e9-4f1e-94b5-2027380898bb)
+
