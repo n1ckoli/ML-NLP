@@ -14,16 +14,20 @@ For start:
 
 RESULTS:
 
-DecisionTree
+train.py
 
 ![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/3195a7ed-4c2c-439f-b364-11912c2f6265)
 
+random_forest.py
 
-PCA
+![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/eca174f0-3883-4b03-b3bf-407b10ed16e7)
+
+
+pca.py
 
 ![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/c94e32e1-b2ca-46e7-a660-bba953e8e653)
 
-Bag of words
+bag_of_words.py
 
 ![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/9e04aff9-f0e9-4f1e-94b5-2027380898bb)
 
