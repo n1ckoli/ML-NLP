@@ -1,11 +1,12 @@
 # ML-NLP
  
 For start
+
 Create new virtual environment in your project 
 
   ![image](https://github.com/n1ckoli/ML-NLP/assets/124861436/ed6fdbeb-11c0-4c5e-94a2-fbecdcf5dd0a)
   
-  and them activate your virtual environment
+And then activate your virtual environment
   
   ![Screenshot from 2024-02-02 21-18-44](https://github.com/n1ckoli/ML-NLP/assets/124861436/d1f4c03d-be9a-4130-b21f-4cf4bfd7f84e)
   
